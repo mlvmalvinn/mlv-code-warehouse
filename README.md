@@ -1,5 +1,8 @@
-# mlv-code-warehouse
+daftar-biodata-siswa
 ==
-this is a repo where im testing stuff
+Daftar biodata siswa Dicoding Academy
 --
-hwy what are you looking for this is an empty code
+*Berikut adalah biodata siswa terdiri yang dari 3 angkatan.*
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
